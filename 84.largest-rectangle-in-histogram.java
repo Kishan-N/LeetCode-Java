@@ -20,7 +20,6 @@ class Solution {
                     int height = pair.getval();
                     int width = pair.getkey();
                     maxArea = Math.max(maxArea,height*(i-width));
-                    System.out.println(i);
                     start = width;
             }
             stack.push(new Pair<>(start, heights[i]));
