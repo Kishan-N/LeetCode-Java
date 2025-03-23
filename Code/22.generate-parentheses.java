@@ -1,3 +1,4 @@
+package Code;
 /*
  * @lc app=leetcode id=22 lang=java
  *
@@ -10,30 +11,33 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Solution {
+    public List<String> res = new ArrayList<>();
     public List<String> generateParenthesis(int n) {
-        StringBuilder s= new StringBuilder(); 
-        List<String> res = new ArrayList<>();
-        dfs(0,0, s,n,res);
-
+        StringBuilder s = new StringBuilder();
+        build(s,n,0,0);
         return res;
     }
 
-    public void dfs(int OpenC,int ClosedC,StringBuilder s,int n,List<String> res){
-        if(OpenC==ClosedC && OpenC == n){
+    public void build(StringBuilder s,int n,int countO,int countC) {
+        if(countC==countO && countO==n){
             res.add(s.toString());
             return;
         }
+        
+        if(countO<n){
+            s.append('(');
+            build(s,n,countO+1,countC);
+            s.deleteCharAt(s.length()-1);
+        }
 
-        if(OpenC<n){
-            s.append("(");
-            dfs(OpenC+1,ClosedC,s,n,res);
+        if(countC<countO){
+            s.append(')');
+            build(s,n,countO,countC+1);
             s.deleteCharAt(s.length()-1);
         }
-        if(ClosedC<OpenC){
-            dfs(OpenC,ClosedC+1,s.append(")"),n,res);
-            s.deleteCharAt(s.length()-1);
-        }
+  
     }
+
 }
 // @lc code=end
 

@@ -1,3 +1,5 @@
+package Code;
+
 /*
  * @lc app=leetcode id=199 lang=java
  *
@@ -28,22 +30,24 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         List<Integer> res = new ArrayList<>();
         if(root!=null)
-            q.offer(root);
-        
+            q.add(root);
         while(!q.isEmpty()){
             TreeNode node = null;
-            for(int n=q.size();n>0;n--){
+            int size=q.size();
+            for(int r=0;r<size;r++){
                 node = q.poll();
                 if(node.left!=null)
-                    q.offer(node.left);
+                    q.add(node.left);
                 if(node.right!=null)
-                    q.offer(node.right);
+                    q.add(node.right);
             }
-            res.add(node.val);
+            if(node!=null)
+                res.add(node.val);
         }
         return res;
-
     }
 }
 // @lc code=end
+
+
 

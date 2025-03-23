@@ -28,14 +28,16 @@ using no loop(check if Math.log(n,4) is an integer to see if n is perfect):
 if (n <= 0) {
             return false;
         }
-return Math.log(n)/Math.(4) % 1 == 0;
+return Math.log(n)/Math.log(4) % 1 == 0;
 
  */
 // @lc code=start
 class Solution {
     public boolean isPowerOfFour(int n) {
-        
-        return true;
+        if (n <= 0) {
+            return false;
+        }
+return Math.log(n)/Math.log(4) % 1 == 0;
     }
 }
 // @lc code=end
