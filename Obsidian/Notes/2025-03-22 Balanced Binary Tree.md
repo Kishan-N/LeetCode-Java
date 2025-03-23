@@ -1,7 +1,7 @@
 ---
 created: 2025-03-22
 modified: 
-completed: true
+completed: false
 leetcode-index: 110
 link: https://leetcode.com/problems/balanced-binary-tree
 difficulty: Easy
