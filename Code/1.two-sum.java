@@ -16,7 +16,7 @@ class Solution {
                     return new int[]{i,map.get(nums[i])};
                 }
                 map.put(target-nums[i], i);
-            } 
+            }
             return nums;
     }
 }
