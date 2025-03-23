@@ -1,15 +1,15 @@
 ---
 created: 2025-03-22
 modified: 
-completed: false
-leetcode-index: 1689 
+completed: true
+leetcode-index: 1689
 link: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers
-difficulty: Medium 
+difficulty: Medium
 tags:
-   - leetcode/string
-   - leetcode/greedy 
-   - programming/practice
-   - leetcode/problem
+  - leetcode/string
+  - leetcode/greedy
+  - programming/practice
+  - leetcode/problem
 ---
 # Partitioning Into Minimum Number Of Deci-Binary Numbers
 
