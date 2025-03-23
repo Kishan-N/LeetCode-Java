@@ -1,0 +1,42 @@
+{
+  "quickadd:choice:54ba0ec7-ee4f-42f2-b32c-54de4c8ef5d5": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "quickadd:choice:141a62fc-d469-41ff-a3cf-a64960decd7e": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "quickadd:choice:e7518098-9413-4d95-b5a1-3389ce5770c3": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "quickadd:choice:0f1898b4-f5b5-4497-9112-830afaac0a42": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "tag-pane:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}

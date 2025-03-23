@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "006fba5ab6329725",
+    "type": "split",
+    "children": [
+      {
+        "id": "d94e19c9a64bd7a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb48c19d2e1e948e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Obsidian/Code/1.two-sum.java",
+                "bFile": "Obsidian/Code/1.two-sum.java",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 1.two-sum.java"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b96a12d5604a94ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "30bc3de458cdd595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "288a2da82e56fc8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2e703c7ee9572bc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#leetcode/counting",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb2b3877674e5be5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 490.5
+  },
+  "right": {
+    "id": "f362de69e33a95cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0fdbd3647570ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4ad1499118f2a68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blackboard.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Blackboard"
+            }
+          },
+          {
+            "id": "698da50fd62aa453",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3c7ff3efe0842039",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/Code/79.word-search.java",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 79.word-search"
+            }
+          },
+          {
+            "id": "b70d072329e987cd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "d09d9ca2a212289c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 500.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "fb48c19d2e1e948e",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Obsidian/Code/3.longest-substring-without-repeating-characters.java",
+    "Obsidian/Notes/2025-03-22 Balanced Binary Tree.md",
+    "Obsidian/Notes/2025-03-22 Two Sum.md",
+    "Obsidian/Notes/2025-03-22 Partitioning Into Minimum Number Of Deci-Binary Numbers.md",
+    "Obsidian/Notes/2025-03-22 Valid Sudoku.md",
+    "Obsidian/Notes/2025-03-22 Maximum Depth of Binary Tree.md",
+    "Obsidian/Notes/2025-03-22 Same Tree.md",
+    "Obsidian/Notes/2025-03-22 Longest Consecutive Sequence.md",
+    "Obsidian/Notes/2025-03-22 Min Stack.md",
+    "Obsidian/Notes/2025-03-22 Defanging an IP Address.md",
+    "Obsidian/Notes/2025-03-22 Longest Subarray of 1's After Deleting One Element.md",
+    "Obsidian/Notes/2025-03-22 Check If a Word Occurs As a Prefix of Any Word in a Sentence.md",
+    "Obsidian/Notes/2025-03-22 Construct K Palindrome Strings.md",
+    "Obsidian/Notes/2025-03-22 Binary Tree Right Side View.md",
+    "Obsidian/Notes/2025-03-22 Binary Tree Level Order Traversal.md",
+    "Obsidian/Notes/2025-03-22 Best Time to Buy and Sell Stock II.md",
+    "Obsidian/Notes/2025-03-22 Best Time to Buy and Sell Stock.md",
+    "Obsidian/Notes",
+    "Obsidian/Code/TreeNode.java",
+    "Obsidian/Code/Pair.java",
+    "Obsidian/Code/ListNode.java",
+    "Obsidian/Code/90.subsets-ii.java",
+    "Obsidian/Code/853.car-fleet.java",
+    "Obsidian/Code/84.largest-rectangle-in-histogram.java",
+    "Obsidian/Code/79.word-search.java",
+    "Obsidian/Code/771.jewels-and-stones.java",
+    "Notion/Public Templates (Aman Manazir)/Computer Science Class Notes/Real Analysis/Real Analysis.md",
+    "Notion/Public Templates (Aman Manazir)/Computer Science Class Notes/Real Analysis/Basic Topology.md",
+    "Excalidraw/Drawing 2025-01-19 18.25.26.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-19 18.25.26.excalidraw.practice.md",
+    "Notion/Public Templates (Aman Manazir)/Computer Science Class Notes/Default Class/Textbook.md",
+    "Notion/Public Templates (Aman Manazir)/Computer Science Class Notes/Default Class/Default Class.md",
+    "Pasted Image 20250302201417_651.png",
+    "Pasted Image 20250309105101_240.png",
+    "Pasted Image 20250223145944_146.png",
+    "Pasted Image 20250217194246_788.png",
+    "Pasted Image 20250210231953_140.png",
+    "Pasted Image 20250208140700_431.png",
+    "Pasted Image 20250202191037_537.png",
+    "Pasted Image 20250223145320_377.png",
+    "Pasted Image 20250222180348_826.png",
+    "Pasted Image 20250222153906_694.png",
+    "Untitled.canvas",
+    "Blackboard.canvas"
+  ]
+}
