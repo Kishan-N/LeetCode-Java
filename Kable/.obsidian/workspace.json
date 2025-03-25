@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "006fba5ab6329725",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1207e5ef079d752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad70fddb720c52d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b96a12d5604a94ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "30bc3de458cdd595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "288a2da82e56fc8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2e703c7ee9572bc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "letterCombinations",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb2b3877674e5be5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f362de69e33a95cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0fdbd3647570ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4ad1499118f2a68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "698da50fd62aa453",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3c7ff3efe0842039",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-19 18.25.26.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2025-01-19 18.25.26.excalidraw"
+            }
+          },
+          {
+            "id": "d09d9ca2a212289c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6da1e74562c65d07",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "ad70fddb720c52d0",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-19 18.25.26.excalidraw.md",
+    "Pasted image 20250325195048.png",
+    "scripts/Leetcode.md",
+    "Obsidian/Notes/2025-03-25 Letter Combinations of a Phone Number.md",
+    "Obsidian/Code/17.letter-combinations-of-a-phone-number.java",
+    "Obsidian/Code/131.palindrome-partitioning.java",
+    "Obsidian/Notes/2025-03-25 Palindrome Partitioning.md",
+    "scripts/leetcode-quickadd.js",
+    "Obsidian/Code/155.min-stack.java",
+    "Obsidian/Notes/2025-03-23 Minimum Window Substring.md",
+    "Obsidian/Notes/2025-03-23 Largest Rectangle in Histogram.md",
+    "Obsidian/Notes/2025-03-23 Daily Temperatures.md",
+    "Obsidian/Notes/2025-03-23 Subtree of Another Tree.md",
+    "Obsidian/Notes/2025-03-23 Permutation in String.md",
+    "Obsidian/Notes/2025-03-23 Diameter of Binary Tree.md",
+    "Obsidian/Notes/2025-03-23 Permutations.md",
+    "Obsidian/Notes/2025-03-23 Longest Repeating Character Replacement.md",
+    "Obsidian/Notes/2025-03-23 Combination Sum II.md",
+    "Obsidian/Notes/2025-03-23 Median of Two Sorted Arrays.md",
+    "Obsidian/Notes/2025-03-23 Combination Sum.md",
+    "Obsidian/Notes/2025-03-22 Valid Sudoku.md",
+    "Obsidian/Notes/2025-03-23 Valid Sudoku.md",
+    "Obsidian/Code/36.valid-sudoku.java",
+    "Obsidian/Notes/2025-03-23 Power of Four.md",
+    "Obsidian/Notes/2025-03-23 The Two Sneaky Numbers of Digitville.md",
+    "Obsidian/Notes/2025-03-23 Minimum Operations to Make Binary Array Elements Equal to One I.md",
+    "Obsidian/Notes/2025-03-23 Longest Substring Without Repeating Characters.md",
+    "Obsidian/Notes/2025-03-23 Find Words Containing Character.md",
+    "Obsidian/Notes/2025-03-23 Divisible and Non-divisible Sums Difference.md",
+    "Obsidian/Notes/2025-03-23 Minimum Time to Repair Cars.md",
+    "Obsidian/Notes/2025-03-23 Find Xor-Beauty of Array.md",
+    "Obsidian/Code/1.two-sum.java",
+    "Obsidian/Notes",
+    "Obsidian/Code/Pair.java",
+    "Obsidian/Code/TreeNode.java",
+    "Obsidian/Code/90.subsets-ii.java",
+    "Pasted Image 20250302201417_651.png",
+    "Pasted Image 20250309105101_240.png",
+    "Pasted Image 20250223145944_146.png",
+    "Pasted Image 20250217194246_788.png",
+    "Pasted Image 20250210231953_140.png",
+    "Pasted Image 20250208140700_431.png",
+    "Pasted Image 20250202191037_537.png",
+    "Pasted Image 20250223145320_377.png",
+    "Pasted Image 20250222180348_826.png",
+    "Untitled.canvas",
+    "Blackboard.canvas"
+  ]
+}

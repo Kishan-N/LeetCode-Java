@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "f976c258e8ff3619",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0238c057954994c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab3acb31f957fabe",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Code/17.letter-combinations-of-a-phone-number.java",
+                "bFile": "Code/17.letter-combinations-of-a-phone-number.java",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 17.letter-combinations-of-a-phone-number.java"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59da5b30cd99c04a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b3fadda664c6968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f22a439390c0e94b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87900710c9ddfa3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a67052e75c2b40e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "423b036b990f4bc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7587ef2ed0539a63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be4237a5b0231859",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3735541d135abae0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bb39b9a960f00ee8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a53ae1560ee5a16a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5da2afc9194dd7f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "vscode-editor:Create Code File": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "ab3acb31f957fabe",
+  "lastOpenFiles": [
+    "Code/122.best-time-to-buy-and-sell-stock-ii.java",
+    "Code/104.maximum-depth-of-binary-tree.java",
+    "Code/1.two-sum.java",
+    "Notes/2025-03-25 Palindrome Partitioning.md",
+    "Pasted image 20250325200711.png",
+    "Notes/2025-03-25 Letter Combinations of a Phone Number.md",
+    "Notes/Pasted image 20250325195048.png",
+    "Excalidraw/Drawing 2025-03-25 20.04.36.excalidraw.md",
+    "Excalidraw"
+  ]
+}

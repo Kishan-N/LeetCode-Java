@@ -1,16 +1,16 @@
 ---
 created: 2025-03-23
 modified: 
-completed: false
-leetcode-index: 2011 
+completed: true
+leetcode-index: 2011
 link: https://leetcode.com/problems/final-value-of-variable-after-performing-operations
-difficulty: Easy 
+difficulty: Easy
 tags:
-   - leetcode/array
-   - leetcode/string
-   - leetcode/simulation 
-   - programming/practice
-   - leetcode/problem
+  - leetcode/array
+  - leetcode/string
+  - leetcode/simulation
+  - programming/practice
+  - leetcode/problem
 ---
 # Final Value of Variable After Performing Operations
 
@@ -61,11 +61,11 @@ Given an array of strings `operations` containing a list of operations, return *
 ## Solution
 
 ### Intuition
-<!--Describe your first thoughts on how to solve this problem -->
+CharAt(1) will always be a sign.
 
 
 ### Approach
-<!-- Describe your approach to solving the problem. -->
+Convert - to -1 and + to +1 and add to res.
 
 
 ### Complexity
@@ -79,5 +79,13 @@ Given an array of strings `operations` containing a list of operations, return *
 ### Code
 ---
 ```java
-
+class Solution {
+    public int finalValueAfterOperations(String[] operations) {
+        int res=0;
+        for(String op : operations){
+            res+= 44 - op.charAt(1);   
+        }
+        return res;
+    }
+}
 ```
