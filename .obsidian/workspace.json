@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "f976c258e8ff3619",
+    "id": "006fba5ab6329725",
     "type": "split",
     "children": [
       {
-        "id": "e0238c057954994c",
+        "id": "2d0198542ddb2eb2",
         "type": "tabs",
         "children": [
           {
-            "id": "ab3acb31f957fabe",
+            "id": "1765b4d1fdb851cd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "vscode-editor",
               "state": {
-                "aFile": "Code/17.letter-combinations-of-a-phone-number.java",
-                "bFile": "Code/17.letter-combinations-of-a-phone-number.java",
-                "aRef": ""
+                "file": "Code/17.letter-combinations-of-a-phone-number.java"
               },
-              "icon": "diff",
-              "title": "Diff: 17.letter-combinations-of-a-phone-number.java"
+              "icon": "lucide-file",
+              "title": "17.letter-combinations-of-a-phone-number"
             }
           }
         ]
@@ -27,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "59da5b30cd99c04a",
+    "id": "b96a12d5604a94ac",
     "type": "split",
     "children": [
       {
-        "id": "3b3fadda664c6968",
+        "id": "30bc3de458cdd595",
         "type": "tabs",
         "children": [
           {
-            "id": "f22a439390c0e94b",
+            "id": "288a2da82e56fc8e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +46,12 @@
             }
           },
           {
-            "id": "87900710c9ddfa3c",
+            "id": "2e703c7ee9572bc1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "letterCombinations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +63,7 @@
             }
           },
           {
-            "id": "a67052e75c2b40e8",
+            "id": "fb2b3877674e5be5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +76,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 360.5
   },
   "right": {
-    "id": "423b036b990f4bc1",
+    "id": "f362de69e33a95cb",
     "type": "split",
     "children": [
       {
-        "id": "7587ef2ed0539a63",
+        "id": "e0fdbd3647570ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "be4237a5b0231859",
+            "id": "f4ad1499118f2a68",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +105,7 @@
             }
           },
           {
-            "id": "3735541d135abae0",
+            "id": "698da50fd62aa453",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +118,22 @@
             }
           },
           {
-            "id": "bb39b9a960f00ee8",
+            "id": "3c7ff3efe0842039",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-19 18.25.26.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2025-01-19 18.25.26.excalidraw"
+            }
+          },
+          {
+            "id": "d09d9ca2a212289c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,21 +148,7 @@
             }
           },
           {
-            "id": "a53ae1560ee5a16a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "5da2afc9194dd7f2",
+            "id": "6da1e74562c65d07",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -163,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 534.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,21 +172,61 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "vscode-editor:Create Code File": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "ab3acb31f957fabe",
+  "active": "1765b4d1fdb851cd",
   "lastOpenFiles": [
-    "Code/122.best-time-to-buy-and-sell-stock-ii.java",
-    "Code/104.maximum-depth-of-binary-tree.java",
-    "Code/1.two-sum.java",
-    "Notes/2025-03-25 Palindrome Partitioning.md",
-    "Pasted image 20250325200711.png",
-    "Notes/2025-03-25 Letter Combinations of a Phone Number.md",
-    "Notes/Pasted image 20250325195048.png",
-    "Excalidraw/Drawing 2025-03-25 20.04.36.excalidraw.md",
-    "Excalidraw"
+    "Code/3.longest-substring-without-repeating-characters.java",
+    "Code/17.letter-combinations-of-a-phone-number.java",
+    "Excalidraw/Drawing 2025-01-19 18.25.26.excalidraw.md",
+    "Pasted image 20250325195048.png",
+    "scripts/Leetcode.md",
+    "Obsidian/Notes/2025-03-25 Letter Combinations of a Phone Number.md",
+    "Obsidian/Code/17.letter-combinations-of-a-phone-number.java",
+    "Obsidian/Code/131.palindrome-partitioning.java",
+    "Obsidian/Notes/2025-03-25 Palindrome Partitioning.md",
+    "scripts/leetcode-quickadd.js",
+    "Obsidian/Code/155.min-stack.java",
+    "Obsidian/Notes/2025-03-23 Minimum Window Substring.md",
+    "Obsidian/Notes/2025-03-23 Largest Rectangle in Histogram.md",
+    "Obsidian/Notes/2025-03-23 Daily Temperatures.md",
+    "Obsidian/Notes/2025-03-23 Subtree of Another Tree.md",
+    "Obsidian/Notes/2025-03-23 Permutation in String.md",
+    "Obsidian/Notes/2025-03-23 Diameter of Binary Tree.md",
+    "Obsidian/Notes/2025-03-23 Permutations.md",
+    "Obsidian/Notes/2025-03-23 Longest Repeating Character Replacement.md",
+    "Obsidian/Notes/2025-03-23 Combination Sum II.md",
+    "Obsidian/Notes/2025-03-23 Median of Two Sorted Arrays.md",
+    "Obsidian/Notes/2025-03-23 Combination Sum.md",
+    "Obsidian/Notes/2025-03-22 Valid Sudoku.md",
+    "Obsidian/Notes/2025-03-23 Valid Sudoku.md",
+    "Obsidian/Code/36.valid-sudoku.java",
+    "Obsidian/Notes/2025-03-23 Power of Four.md",
+    "Obsidian/Notes/2025-03-23 The Two Sneaky Numbers of Digitville.md",
+    "Obsidian/Notes/2025-03-23 Minimum Operations to Make Binary Array Elements Equal to One I.md",
+    "Obsidian/Notes/2025-03-23 Longest Substring Without Repeating Characters.md",
+    "Obsidian/Notes/2025-03-23 Find Words Containing Character.md",
+    "Obsidian/Notes/2025-03-23 Divisible and Non-divisible Sums Difference.md",
+    "Obsidian/Notes/2025-03-23 Minimum Time to Repair Cars.md",
+    "Obsidian/Notes/2025-03-23 Find Xor-Beauty of Array.md",
+    "Obsidian/Code/1.two-sum.java",
+    "Obsidian/Notes",
+    "Obsidian/Code/Pair.java",
+    "Obsidian/Code/TreeNode.java",
+    "Pasted Image 20250302201417_651.png",
+    "Pasted Image 20250309105101_240.png",
+    "Pasted Image 20250223145944_146.png",
+    "Pasted Image 20250217194246_788.png",
+    "Pasted Image 20250210231953_140.png",
+    "Pasted Image 20250208140700_431.png",
+    "Pasted Image 20250202191037_537.png",
+    "Pasted Image 20250223145320_377.png",
+    "Pasted Image 20250222180348_826.png",
+    "Untitled.canvas",
+    "Blackboard.canvas"
   ]
 }

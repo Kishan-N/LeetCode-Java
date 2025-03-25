@@ -1,5 +1,8 @@
 [
+  "obsidian-excalidraw-plugin",
+  "obsidian-pandoc",
+  "obsidian-importer",
   "vscode-editor",
-  "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "quickadd",
+  "obsidian-git"
 ]
