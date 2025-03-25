@@ -13,13 +13,28 @@
             "state": {
               "type": "vscode-editor",
               "state": {
-                "file": "Code/17.letter-combinations-of-a-phone-number.java"
+                "file": "Code/51.n-queens.java"
               },
               "icon": "lucide-file",
-              "title": "17.letter-combinations-of-a-phone-number"
+              "title": "51.n-queens"
+            }
+          },
+          {
+            "id": "dbb3cd991bfcd228",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Code/test",
+                "bFile": "Code/test",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "letterCombinations",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,10 +193,14 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "1765b4d1fdb851cd",
+  "active": "dbb3cd991bfcd228",
   "lastOpenFiles": [
-    "Code/3.longest-substring-without-repeating-characters.java",
+    "Notes/2025-03-25 N-Queens.md",
+    "Code/51.n-queens.java",
+    "Code/3191.minimum-operations-to-make-binary-array-elements-equal-to-one-i.java",
     "Code/17.letter-combinations-of-a-phone-number.java",
+    "Code/test",
+    "Code/3.longest-substring-without-repeating-characters.java",
     "Excalidraw/Drawing 2025-01-19 18.25.26.excalidraw.md",
     "Pasted image 20250325195048.png",
     "scripts/Leetcode.md",
@@ -212,11 +231,6 @@
     "Obsidian/Notes/2025-03-23 Find Words Containing Character.md",
     "Obsidian/Notes/2025-03-23 Divisible and Non-divisible Sums Difference.md",
     "Obsidian/Notes/2025-03-23 Minimum Time to Repair Cars.md",
-    "Obsidian/Notes/2025-03-23 Find Xor-Beauty of Array.md",
-    "Obsidian/Code/1.two-sum.java",
-    "Obsidian/Notes",
-    "Obsidian/Code/Pair.java",
-    "Obsidian/Code/TreeNode.java",
     "Pasted Image 20250302201417_651.png",
     "Pasted Image 20250309105101_240.png",
     "Pasted Image 20250223145944_146.png",
