@@ -11,17 +11,72 @@
             "id": "2c9e836d9d2099fc",
             "type": "leaf",
             "state": {
+              "type": "vscode-editor",
+              "state": {
+                "file": "scripts/leetcode-quickadd.js"
+              },
+              "icon": "lucide-file",
+              "title": "leetcode-quickadd"
+            }
+          },
+          {
+            "id": "68ab2b0214e65892",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025-03-27 Word Search II.md",
+                "file": "Notes/2025-03-29 Climbing Stairs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-27 Word Search II"
+              "title": "2025-03-29 Climbing Stairs"
+            }
+          },
+          {
+            "id": "ba802051c82cf4a0",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Code/198.house-robber.java",
+                "bFile": "Code/198.house-robber.java",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 198.house-robber.java"
+            }
+          },
+          {
+            "id": "286c862e4847de9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2025-03-30 House Robber II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-30 House Robber II"
+            }
+          },
+          {
+            "id": "e71c3324e7aa3af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2025-03-30 Longest Palindromic Substring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-30 Longest Palindromic Substring"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -180,11 +235,21 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "2c9e836d9d2099fc",
+  "active": "e71c3324e7aa3af5",
   "lastOpenFiles": [
+    "Code/5.longest-palindromic-substring.java",
     "scripts/leetcode-quickadd.js",
-    "Notes/2025-03-27 Word Search II.md",
     "scripts/Leetcode.md",
+    "Notes/2025-03-30 Longest Palindromic Substring.md",
+    "Notes/2025-03-30 House Robber II.md",
+    "Notes/2025-03-30 House Robber.md",
+    "Pasted image 20250330133840.png",
+    "Notes/2025-03-29 Climbing Stairs.md",
+    "Code/213.house-robber-ii.java",
+    "Code/198.house-robber.java",
+    "Code/746.min-cost-climbing-stairs.java",
+    "Notes/2025-03-27 Word Search II.md",
+    "Code/70.climbing-stairs.java",
     "Notes/2025-03-26 Design Add and Search Words Data Structure.md",
     "Notes/2025-03-26 Implement Trie (Prefix Tree).md",
     "Notes/2025-03-25 Letter Combinations of a Phone Number.md",
@@ -194,13 +259,9 @@
     "Code/TrieNode.java",
     "Code/test",
     "Notes/2025-03-25 N-Queens.md",
-    "Code/3191.minimum-operations-to-make-binary-array-elements-equal-to-one-i.java",
-    "Code/17.letter-combinations-of-a-phone-number.java",
-    "Code/3.longest-substring-without-repeating-characters.java",
     "Excalidraw/Drawing 2025-01-19 18.25.26.excalidraw.md",
     "Pasted image 20250325195048.png",
     "Obsidian/Notes/2025-03-25 Letter Combinations of a Phone Number.md",
-    "Obsidian/Code/17.letter-combinations-of-a-phone-number.java",
     "Obsidian/Notes/2025-03-25 Palindrome Partitioning.md",
     "Obsidian/Notes/2025-03-23 Minimum Window Substring.md",
     "Obsidian/Notes/2025-03-23 Largest Rectangle in Histogram.md",
@@ -214,10 +275,6 @@
     "Obsidian/Notes/2025-03-23 Median of Two Sorted Arrays.md",
     "Obsidian/Notes/2025-03-23 Combination Sum.md",
     "Obsidian/Notes/2025-03-22 Valid Sudoku.md",
-    "Obsidian/Notes/2025-03-23 Valid Sudoku.md",
-    "Obsidian/Notes/2025-03-23 Power of Four.md",
-    "Obsidian/Notes/2025-03-23 The Two Sneaky Numbers of Digitville.md",
-    "Obsidian/Notes/2025-03-23 Minimum Operations to Make Binary Array Elements Equal to One I.md",
     "Pasted Image 20250302201417_651.png",
     "Pasted Image 20250309105101_240.png",
     "Pasted Image 20250223145944_146.png",
@@ -226,7 +283,6 @@
     "Pasted Image 20250208140700_431.png",
     "Pasted Image 20250202191037_537.png",
     "Pasted Image 20250223145320_377.png",
-    "Pasted Image 20250222180348_826.png",
     "Untitled.canvas",
     "Blackboard.canvas"
   ]

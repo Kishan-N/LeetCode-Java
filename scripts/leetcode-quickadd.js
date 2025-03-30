@@ -11,8 +11,8 @@ const log = msg => console.log(msg);
 const fs = require('fs');
 
 // Constants
-const API_URL = "https://alfa-leetcode-api.onrender.com/select";
-// const API_URL = "http://localhost:3000/select";
+//const API_URL = "https://alfa-leetcode-api.onrender.com/select";
+ const API_URL = "http://localhost:3000/select";
 const TAG_PREFIX_SETTING = "LeetCode Tag Prefix";
 
 // QuickAdd module configuration
